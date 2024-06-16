@@ -1,0 +1,11 @@
+:root {
+    --label-text-01__size: 0.95rem;
+    --label-text-01__weight: 600;
+}
+
+html {
+    font-size: 16px; /* could opt for base 10px but no time to rework */
+    font-family: Nunito, sans-serif;
+    color: var(--grey-950);
+    font-weight: 500;
+}
